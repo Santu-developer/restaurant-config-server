@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.restaurant.restaurant-config-server' is invalid and this project uses 'com.restaurant.restaurant_config_server' instead.
+* The original package name 'com.restaurant.restaurant-config-server' is invalid and this project uses 'com.restaurant.configserver' instead.
 
 # Getting Started
 

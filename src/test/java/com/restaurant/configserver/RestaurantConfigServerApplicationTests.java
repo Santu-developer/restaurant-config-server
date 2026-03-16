@@ -1,4 +1,4 @@
-package com.restaurant.restaurant_config_server;
+package com.restaurant.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
